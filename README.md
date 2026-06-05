@@ -1,6 +1,6 @@
 # Audio Geolocation: A Natural Sounds Benchmark
 
-[[Benchmark](https://github.com/cvl-umass/nat-sound2loc-benchmark)][[Model Weights](https://drive.google.com/drive/folders/1USbpyxMxSXtNf6e_aKT3qO7FeqU7xeJo?usp=sharing)][[arXiv](https://arxiv.org/abs/2505.18726)]
+[[Website](https://cvl-umass.github.io/audio-geolocation/)][[Model Weights](https://drive.google.com/drive/folders/1USbpyxMxSXtNf6e_aKT3qO7FeqU7xeJo?usp=sharing)][[arXiv](https://arxiv.org/abs/2505.18726)]
 
 
 <p align="center">
@@ -119,10 +119,10 @@ If you use the dataset and benchmark in your work, please consider citing us:
 
 
 ```
-@inproceedings{audio_geo,
-    author = {Chasmai, Mustafa and Liu, Wuao and Maji, Subhransu and Van Horn, Grant},
-    booktitle = {arxiv},
-    title = {Audio Geolocation: A Natural Sounds Benchmark},
-    year = {2025}
+@inproceedings{chasmai2026bioacoustic,
+    title={Bioacoustic Geolocation: Species Sounds as Geographic Signals},
+    author={Chasmai, Mustafa and Liu, Wuao and Maji, Subhransu and Van Horn, Grant},
+    journal={Forty-third International Conference on Machine Learning},
+    year={2026}
 }
 ```
