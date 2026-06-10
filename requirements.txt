@@ -1,0 +1,15 @@
+geopy==2.4.1
+geoclip
+h3==4.0.0b7
+imageio==2.35.1
+librosa==0.9.1
+matplotlib==3.8.0
+opencv-python==4.10.0.84
+scikit-learn==1.5.2
+scipy==1.14.1
+soundfile==0.12.1
+torch==2.4.1
+torchmetrics==1.4.2
+torchvision==0.15.2
+tqdm==4.66.5
+transformers==4.45.0

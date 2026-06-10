@@ -32,15 +32,16 @@ python3 setup/make_galleries.py
 
 ## Environment setup
 
-Please follow corresponding instructions to install and setup 
 
-- H3 [[here](https://github.com/uber/h3)]
-- GeoCLIP [[here](https://github.com/VicenteVivan/geo-clip)]
+Dependencies to run our models are listed in `requirements.txt`. 
+
+Some baselines and experiments require other dependencies. Please follow corresponding instructions to install and setup 
+
+
 - SatCLIP [[here](https://github.com/microsoft/satclip)]
 - GeoCLAP [[here](https://github.com/mvrl/geoclap)]
 - TaxaBind [[here](https://github.com/mvrl/TaxaBind)]
 
-Experiments ran with `pytorch==2.4.1` and `torchvision==0.15.2`.
 
 ## Instructions to Reproduce Experiments
 
