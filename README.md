@@ -1,6 +1,6 @@
-# Audio Geolocation: A Natural Sounds Benchmark
+# Bioacoustic Geolocation: Species Sounds as Geographic Signals
 
-[[Website](https://cvl-umass.github.io/audio-geolocation/)][[Model Weights](https://drive.google.com/drive/folders/1USbpyxMxSXtNf6e_aKT3qO7FeqU7xeJo?usp=sharing)][[arXiv](https://arxiv.org/abs/2505.18726)]
+[[Website](https://cvl-umass.github.io/audio-geolocation/)]&emsp;[[Model Weights](https://drive.google.com/drive/folders/1USbpyxMxSXtNf6e_aKT3qO7FeqU7xeJo?usp=sharing)]&emsp;[[arXiv](https://arxiv.org/abs/2505.18726)]
 
 
 <p align="center">
