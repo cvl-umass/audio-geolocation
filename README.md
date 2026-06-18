@@ -51,6 +51,8 @@ Set the variables in [config](./src/config.py) to appropriate paths after settin
 
 Please find [here](https://drive.google.com/drive/folders/1USbpyxMxSXtNf6e_aKT3qO7FeqU7xeJo?usp=sharing). To run evaluation with a model, please use the corresponding command from below, set `--mode eval` and pass the corresponding model weight with `--model_weight`.
 
+The `--encoder_weight` argument (optional) points to pertained weights for the encoder. For our experiments, we used encoders trained for species identification on [iNatSounds](https://github.com/cvl-umass/iNatSounds) (model weights were released [here](https://drive.google.com/drive/folders/1u8iqzP2WL2nkTMp9VZ5FCa3zveOrPj2X?usp=sharing)). Set `$INAT_CLS_WEIGHT` to the path of the pretrained weights for the corresponding architecture.
+
 ### Regression
 
 ~~~
